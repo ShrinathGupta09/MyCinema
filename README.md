@@ -5,10 +5,13 @@
 <h2>Technical Info</h2>
 <ul>
 <li>Written purely in Java.</li>
-<li>Firebase was used for the database<li>
+<li>Firebase was used for the database</li>
 </ul>
 <h2>Screenshots</h2>
 <h2>Dependencies</h2>
+<ul>
+  <li>Support: AppCompat, Design, LinerLayout,Relative Layout</li>
+  </ul>
 <h2>Inside Story</h2>
 <ul>
 <li>This application was developed during Android Development TechShala 2019 at Vidyalankar Polytechnic(VP) in 5 hours</li>
