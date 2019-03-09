@@ -1,4 +1,4 @@
-#MyCinema 
+<h1>MyCinema</h1> 
 <ul>
 <li>An Android application that allow the user to book tickets for movies</li>
 </ul>
@@ -20,4 +20,4 @@
 <li>Ritik Sarang</li>
 <li>Adesh Jambhale</li>
 <li>Shrinath Gupta</li>
-
+<ul>
