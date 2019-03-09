@@ -17,6 +17,7 @@
 <li>This application was developed during Android Development TechShala 2019 at Vidyalankar Polytechnic(VP) in 5 hours</li>
 <li>The application was developed by Ritik Sarang, Adesh Jambhale and Shrinath Gupta</li>
 <li>The team were the winner for Android Development TechShala 2019 at Vidyalankar Polytechnic(VP)</li>
+<li>The team partially completed the project</li>
 </ul>
 <h2>Contributer</h2>
 <ul>
