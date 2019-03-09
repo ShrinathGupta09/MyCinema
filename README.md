@@ -10,7 +10,7 @@
 <h2>Screenshots</h2>
 <h2>Dependencies</h2>
 <ul>
-  <li>Support: AppCompat, Design, LinerLayout,Relative Layout</li>
+  <li>Support: AppCompat, Design, LinearLayout,Relative Layout</li>
   </ul>
 <h2>Inside Story</h2>
 <ul>
