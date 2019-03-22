@@ -7,7 +7,6 @@
 <li>Written purely in Java.</li>
 <li>Firebase was used for the database</li>
 </ul>
-<h2>Screenshots</h2>
 <h2>Dependencies</h2>
 <ul>
   <li>Support: AppCompat, Design</li>
@@ -25,3 +24,11 @@
 <li>Adesh Jambhale</li>
 <li>Shrinath Gupta</li>
 <ul>
+<h2>Download</h2>
+<a href="https://github.com/ShrinathGupta09/MyCinema/raw/master/MyCinema/apk/MyCinema.apk">Click Here to Download!!</a>
+<h2>Screenshots</h2>
+<div align="center">
+<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Movie.jpg" alt="Movies Image">
+<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Book.jpg" alt="Booking Tickets">
+<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Rating.jpg" alt="Rating Image">
+</div>
