@@ -28,7 +28,7 @@
 <a href="https://github.com/ShrinathGupta09/MyCinema/raw/master/MyCinema/apk/MyCinema.apk">Click Here to Download!!</a>
 <h2>Screenshots</h2>
 <div align="center">
-<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Movie.jpg" alt="Movies Image">
-<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Book.jpg" alt="Booking Tickets">
-<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Rating.jpg" alt="Rating Image">
+<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Movie.jpg"  align="center" width="200"alt="Movies Image">
+<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Book.jpg"  align="center" width="200"alt="Booking Tickets">
+<img src="https://github.com/ShrinathGupta09/MyCinema/tree/master/MyCinema/Images/Rating.jpg"  align="center" width="200"alt="Rating Image">
 </div>
