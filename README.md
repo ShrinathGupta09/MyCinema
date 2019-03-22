@@ -23,7 +23,7 @@
 <li>Ritik Sarang</li>
 <li>Adesh Jambhale</li>
 <li>Shrinath Gupta</li>
-<ul>
+</ul>
 <h2>Download</h2>
 <a href="https://github.com/ShrinathGupta09/MyCinema/raw/master/MyCinema/apk/MyCinema.apk">Click Here to Download!!</a>
 <h2>Screenshots</h2>
