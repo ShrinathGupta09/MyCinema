@@ -1,7 +1,9 @@
 <h1>MyCinema</h1> 
 <ul>
-<li>An Android application that allow the user to book tickets for movies</li>
+<li>An Android application that allow the user to book tickets for movies(Prototype) </li>
 </ul>
+<h2>Status</h2>
+This project is not under active development.
 <h2>Technical Info</h2>
 <ul>
 <li>Written purely in Java.</li>
@@ -24,6 +26,10 @@
 <li>Adesh Jambhale</li>
 <li>Shrinath Gupta</li>
 </ul>
+<h2>Additional Info </h2>
+<ul>
+<li>Feel to contribute to this project.</li>
+<li>You can reach out to me on <a href="https://twitter.com/gupta_shrinath">Twitter</a> </li>                                 </ul>                                         
 <h2>Download</h2>
 <a href="https://github.com/ShrinathGupta09/MyCinema/raw/master/MyCinema/apk/MyCinema.apk">Click Here to Download!!</a>
 <h2>Screenshots</h2>
